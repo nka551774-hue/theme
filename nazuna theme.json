@@ -9,43 +9,43 @@
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": [
-      "#000000"
+      "#b654bf"
     ],
     "BACKGROUND_ACCENT": [
-      "#1a1a1a"
+      "#ca5bd4"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000"
+      "#b654bf"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#1a1a1a"
+      "#ca5bd4"
     ],
     "DIVIDER_STRONG": [
-      "#000000"
+      "#b654bf"
     ],
     "DIVIDER_SUBTLE": [
-      "#000000"
+      "#b654bf"
     ],
     "BORDER_SUBTLE": [
-      "#000000"
+      "#b654bf"
     ],
     "SPINE_DEFAULT": [
-      "#000000"
+      "#b654bf"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#1a1a1a"
+      "#ca5bd4"
     ],
     "SPOILER_REVEALED_BACKGROUND": [
-      "#1a1a1a"
+      "#ca5bd4"
     ],
     "STAGE_CARD_PILL_BG": [
-      "#000000"
+      "#b654bf"
     ],
     "STATUS_DANGER": [
-      "#000000"
+      "#ca5bd4"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#000000"
+      "#b654bf"
     ],
     "STATUS_DANGER_TEXT": [
       "#FFFFFF"
@@ -63,22 +63,22 @@
       "#974fff"
     ],
     "STATUS_POSITIVE": [
-      "#000000"
+      "#b654bf"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
-      "#000000"
+      "#b654bf"
     ],
     "STATUS_POSITIVE_TEXT": [
       "#FFFFFF"
     ],
     "STATUS_SPEAKING": [
-      "#000000"
+      "#b654bf"
     ],
     "STATUS_WARNING": [
       "#FFFFFF"
     ],
     "STATUS_WARNING_BACKGROUND": [
-      "#000000"
+      "#ca5bd4"
     ],
     "STATUS_WARNING_TEXT": [
       "#FFFFFF"
@@ -90,10 +90,10 @@
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#00d9ff"
+      "#FFFFFF"
     ],
     "TEXT_LINK_LOW_SATURATION": [
-      "#75e9ff"
+      "#FFFFFF"
     ],
     "TEXT_LOW_CONTRAST": [
       "#FFFFFF"
@@ -123,25 +123,25 @@
       "#FFFFFF"
     ],
     "THEME_LOCKED_BLUR_FALLBACK": [
-      "#000000"
+      "#b654bf"
     ],
     "THREAD_CHANNEL_SPINE": [
       "#FFFFFF"
     ],
     "TOAST_BG": [
-      "#000000"
+      "#ca5bd4"
     ],
     "TYPING_INDICATOR_BG": [
-      "#000000"
+      "#FFFFFF"
     ],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-      "#000000"
+      "#b654bf"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
-      "#000000"
+      "#b654bf"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
-      "#000000"
+      "#b654bf"
     ],
     "WHITE": [
       "#FFFFFF"
@@ -150,16 +150,16 @@
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "#000000"
+      "#b654bf"
     ],
     "SCROLLBAR_AUTO_THUMB": [
       "#FFFFFF"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#000000"
+      "#b654bf"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#000000"
+      "#ca5bd4"
     ],
     "SCROLLBAR_AUTO_TRACK": [
       "#FFFFFF"
