@@ -1,6 +1,6 @@
 {
-  "name": "Nazuna True Clear AMOLED",
-  "description": "High brightness & maximum transparency for Call of the Night style.",
+  "name": "Call of the Night - Full Neon",
+  "description": "Total transparency with Nazuna purple & neon blue accents.",
   "authors": [
     {
       "name": "nka551774",
@@ -14,34 +14,38 @@
     "BACKGROUND_ACCENT": ["#00000000"],
     "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
     "BACKGROUND_MOBILE_SECONDARY": ["#00000000"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#BE4EB440"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#BE4EB430"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#BE4EB440"],
     "CHAT_INPUT_CONTAINER_BACKGROUND": ["#00000000"],
-    "INTERACTIVE_NORMAL": ["#DEDEDE"],
+    "INTERACTIVE_NORMAL": ["#B286FF"],
     "INTERACTIVE_ACTIVE": ["#FFFFFF"],
-    "INTERACTIVE_HOVER": ["#BE4EB4"],
+    "INTERACTIVE_HOVER": ["#00D9FF"],
     "TEXT_NORMAL": ["#FFFFFF"],
-    "TEXT_MUTED": ["#E0E0E0"],
-    "TEXT_LINK": ["#BE4EB4"],
+    "TEXT_MUTED": ["#9A9A9A"],
+    "TEXT_LINK": ["#00D9FF"],
     "TEXT_BRAND": ["#BE4EB4"],
     "STATUS_ONLINE": ["#BE4EB4"],
-    "STATUS_DND": ["#BE4EB4"],
+    "STATUS_DND": ["#FF00D4"],
     "MENTION_BADGE": ["#BE4EB4"],
     "REDESIGN_MENTION_BADGE": ["#BE4EB4"],
     "SCROLLBAR_THIN_THUMB": ["#BE4EB4"],
-    "SCROLLBAR_AUTO_THUMB": ["#BE4EB4"]
+    "SCROLLBAR_AUTO_THUMB": ["#BE4EB4"],
+    "TAB_BAR_ACTIVE_INDICATOR": ["#BE4EB4"]
   },
   "rawColors": {
     "BLACK_500": "#00000000",
     "BRAND_500": "#BE4EB4",
     "PRIMARY_600": "#00000000",
+    "PRIMARY_630": "#00000000",
     "PRIMARY_700": "#00000000",
     "PRIMARY_800": "#00000000",
-    "PRIMARY_630": "#00000000"
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#B286FF"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/nka551774-hue/theme/refs/heads/main/nazuna.jpg",
+    "url": "https://images7.alphacoders.com/139/thumb-1920-1399770.png",
     "blur": 0.0,
-    "alpha": 0.9,
+    "alpha": 0.85,
     "size": "cover",
     "position": "center"
   },
