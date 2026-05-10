@@ -1,6 +1,6 @@
 {
-  "name": "Nanakusa Nazuna Anime Theme",
-  "description": "Call of the Night - Nazuna AMOLED theme",
+  "name": "Nanakusa Nazuna",
+  "description": "Call of the Night",
   "authors": [
     {
       "name": "nka551774",
@@ -51,16 +51,16 @@
       "#FFFFFF"
     ],
     "STATUS_DND": [
-      "#ff00d4"
+      "#974fff"
     ],
     "STATUS_IDLE": [
-      "#ff00d4"
+      "#974fff"
     ],
     "STATUS_OFFLINE": [
       "#3a3a3a"
     ],
     "STATUS_ONLINE": [
-      "#ff00d4"
+      "#974fff"
     ],
     "STATUS_POSITIVE": [
       "#000000"
@@ -84,16 +84,16 @@
       "#FFFFFF"
     ],
     "TEXT_BRAND": [
-      "#ff00d4"
+      "#974fff"
     ],
     "TEXT_DANGER": [
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#ff00d4"
+      "#00d9ff"
     ],
     "TEXT_LINK_LOW_SATURATION": [
-      "#e100d3"
+      "#75e9ff"
     ],
     "TEXT_LOW_CONTRAST": [
       "#FFFFFF"
@@ -174,10 +174,10 @@
       "#000000"
     ],
     "MENTION_BADGE": [
-      "#ff00d4"
+      "#974fff"
     ],
     "REDESIGN_MENTION_BADGE": [
-      "#ff00d4"
+      "#974fff"
     ]
   },
   "rawColors": {
@@ -186,7 +186,7 @@
     "BRAND_360": "#FFFFFF",
     "BRAND_560": "#000000",
     "BRAND_500": "#1a1a1a",
-    "RED_430": "#ff00d4",
+    "RED_430": "#974fff",
     "PLUM_14": "#2a2a2a",
     "PRIMARY_800": "#2a2a2a",
     "PLUM_1": "#FFFFFF",
@@ -205,9 +205,9 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/nka551774-hue/theme/refs/heads/main/nazuna.jpg",
-    "blur": 0.5,
-    "alpha": 0.25,
+    "url": "https://raw.githubusercontent.com/nka551774-hue/theme/refs/heads/main/nazuna_bright_v2.jpg",
+    "blur": 0.2,
+    "alpha": 0.7,
     "size": "cover",
     "position": "center"
   },
