@@ -1,6 +1,6 @@
 {
-  "name": "Call of the Night - Full Neon",
-  "description": "Total transparency with Nazuna purple & neon blue accents.",
+  "name": "Nanakusa Nazuna - True Purple Night",
+  "description": "Call of the Night theme with total transparency fix.",
   "authors": [
     {
       "name": "nka551774",
@@ -11,36 +11,31 @@
     "BACKGROUND_TERTIARY": ["#00000000"],
     "BACKGROUND_SECONDARY": ["#00000000"],
     "BACKGROUND_PRIMARY": ["#00000000"],
-    "BACKGROUND_ACCENT": ["#00000000"],
     "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
     "BACKGROUND_MOBILE_SECONDARY": ["#00000000"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#BE4EB430"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#BE4EB440"],
+    "BACKGROUND_ACCENT": ["#00000000"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#BE4EB433"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#BE4EB44D"],
     "CHAT_INPUT_CONTAINER_BACKGROUND": ["#00000000"],
     "INTERACTIVE_NORMAL": ["#B286FF"],
     "INTERACTIVE_ACTIVE": ["#FFFFFF"],
-    "INTERACTIVE_HOVER": ["#00D9FF"],
     "TEXT_NORMAL": ["#FFFFFF"],
-    "TEXT_MUTED": ["#9A9A9A"],
+    "TEXT_MUTED": ["#A0A0A0"],
     "TEXT_LINK": ["#00D9FF"],
-    "TEXT_BRAND": ["#BE4EB4"],
     "STATUS_ONLINE": ["#BE4EB4"],
-    "STATUS_DND": ["#FF00D4"],
-    "MENTION_BADGE": ["#BE4EB4"],
-    "REDESIGN_MENTION_BADGE": ["#BE4EB4"],
-    "SCROLLBAR_THIN_THUMB": ["#BE4EB4"],
-    "SCROLLBAR_AUTO_THUMB": ["#BE4EB4"],
-    "TAB_BAR_ACTIVE_INDICATOR": ["#BE4EB4"]
+    "MENTION_BADGE": ["#BE4EB4"]
   },
   "rawColors": {
-    "BLACK_500": "#00000000",
-    "BRAND_500": "#BE4EB4",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#B286FF",
     "PRIMARY_600": "#00000000",
     "PRIMARY_630": "#00000000",
+    "PRIMARY_660": "#00000000",
     "PRIMARY_700": "#00000000",
     "PRIMARY_800": "#00000000",
-    "PRIMARY_100": "#FFFFFF",
-    "PRIMARY_200": "#B286FF"
+    "PRIMARY_900": "#00000000",
+    "BRAND_500": "#BE4EB4",
+    "BLACK_500": "#00000000"
   },
   "background": {
     "url": "https://images7.alphacoders.com/139/thumb-1920-1399770.png",
@@ -49,11 +44,5 @@
     "size": "cover",
     "position": "center"
   },
-  "plus": {
-    "version": "0",
-    "iconpack": "solar"
-  },
-  "spec": 2,
-  "createdAt": "2026-05-10",
-  "source": "local"
+  "spec": 2
 }
