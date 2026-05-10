@@ -1,6 +1,6 @@
 {
-  "name": "Nanakusa Nazuna AMOLED Custom",
-  "description": "Call of the Night - Detailed style inspired by CSS config",
+  "name": "Nazuna True Clear AMOLED",
+  "description": "High brightness & maximum transparency for Call of the Night style.",
   "authors": [
     {
       "name": "nka551774",
@@ -8,17 +8,19 @@
     }
   ],
   "semanticColors": {
-    "BACKGROUND_TERTIARY": ["#000000"],
-    "BACKGROUND_SECONDARY": ["#000000"],
-    "BACKGROUND_PRIMARY": ["#000000"],
-    "BACKGROUND_ACCENT": ["#1a1a1a"],
+    "BACKGROUND_TERTIARY": ["#00000000"],
+    "BACKGROUND_SECONDARY": ["#00000000"],
+    "BACKGROUND_PRIMARY": ["#00000000"],
+    "BACKGROUND_ACCENT": ["#00000000"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#00000000"],
     "BACKGROUND_MODIFIER_ACCENT": ["#BE4EB440"],
     "CHAT_INPUT_CONTAINER_BACKGROUND": ["#00000000"],
     "INTERACTIVE_NORMAL": ["#DEDEDE"],
     "INTERACTIVE_ACTIVE": ["#FFFFFF"],
     "INTERACTIVE_HOVER": ["#BE4EB4"],
     "TEXT_NORMAL": ["#FFFFFF"],
-    "TEXT_MUTED": ["#A0A0A0"],
+    "TEXT_MUTED": ["#E0E0E0"],
     "TEXT_LINK": ["#BE4EB4"],
     "TEXT_BRAND": ["#BE4EB4"],
     "STATUS_ONLINE": ["#BE4EB4"],
@@ -29,23 +31,23 @@
     "SCROLLBAR_AUTO_THUMB": ["#BE4EB4"]
   },
   "rawColors": {
-    "BLACK_500": "#00000038",
+    "BLACK_500": "#00000000",
     "BRAND_500": "#BE4EB4",
-    "PRIMARY_600": "#000000",
-    "PRIMARY_700": "#000000",
-    "PRIMARY_800": "#000000"
+    "PRIMARY_600": "#00000000",
+    "PRIMARY_700": "#00000000",
+    "PRIMARY_800": "#00000000",
+    "PRIMARY_630": "#00000000"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/nka551774-hue/theme/refs/heads/main/nazuna.jpg",
-    "blur": 0.1,
-    "alpha": 0.5,
+    "blur": 0.0,
+    "alpha": 0.9,
     "size": "cover",
     "position": "center"
   },
   "plus": {
     "version": "0",
-    "iconpack": "solar",
-    "customCSS": ".message__80c10 { background-color: rgba(0,0,0,0.46) !important; }"
+    "iconpack": "solar"
   },
   "spec": 2,
   "createdAt": "2026-05-10",
