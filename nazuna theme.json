@@ -207,7 +207,7 @@
   "background": {
     "url": "https://raw.githubusercontent.com/nka551774-hue/theme/refs/heads/main/nazuna.jpg",
     "blur": 0.2,
-    "alpha": 0.7,
+    "alpha": 0.5,
     "size": "cover",
     "position": "center"
   },
