@@ -205,7 +205,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/nka551774/theme/main/nazuna.png",
+    "url": "https://raw.githubusercontent.com/nka551774-hue/theme/refs/heads/main/nazuna.png,
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
