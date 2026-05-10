@@ -1,6 +1,6 @@
 {
-  "name": "Nanakusa Nazuna - Dimmed",
-  "description": "Call of the Night - Darker Variant",
+  "name": "Nanakusa Nazuna - Call of the Night",
+  "description": "Deep night neon theme",
   "authors": [
     {
       "name": "nka551774",
@@ -9,205 +9,205 @@
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": [
-      "#1a0d1b"
+      "#0d0b1e"
     ],
     "BACKGROUND_ACCENT": [
-      "#3d1e40"
+      "#1a163a"
     ],
     "BACKGROUND_SECONDARY": [
-      "#160a17"
+      "#080712"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#3d1e40"
+      "#2e265c"
     ],
     "DIVIDER_STRONG": [
-      "#2a142c"
+      "#1a163a"
     ],
     "DIVIDER_SUBTLE": [
-      "#2a142c"
+      "#1a163a"
     ],
     "BORDER_SUBTLE": [
-      "#2a142c"
+      "#0d0b1e"
     ],
     "SPINE_DEFAULT": [
-      "#b654bf"
+      "#974fff"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#3d1e40"
+      "#1a163a"
     ],
     "SPOILER_REVEALED_BACKGROUND": [
-      "#3d1e40"
+      "#1a163a"
     ],
     "STAGE_CARD_PILL_BG": [
-      "#1a0d1b"
+      "#0d0b1e"
     ],
     "STATUS_DANGER": [
-      "#ca5bd4"
+      "#ff2e63"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#1a0d1b"
+      "#0d0b1e"
     ],
     "STATUS_DANGER_TEXT": [
       "#FFFFFF"
     ],
     "STATUS_DND": [
-      "#974fff"
+      "#ff00ff"
     ],
     "STATUS_IDLE": [
-      "#974fff"
+      "#00f2ff"
     ],
     "STATUS_OFFLINE": [
-      "#3a3a3a"
+      "#2d2d2d"
     ],
     "STATUS_ONLINE": [
-      "#974fff"
+      "#bc13fe"
     ],
     "STATUS_POSITIVE": [
-      "#b654bf"
+      "#00f2ff"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
-      "#b654bf"
+      "#0d0b1e"
     ],
     "STATUS_POSITIVE_TEXT": [
       "#FFFFFF"
     ],
     "STATUS_SPEAKING": [
-      "#b654bf"
+      "#bc13fe"
     ],
     "STATUS_WARNING": [
-      "#FFFFFF"
+      "#ffe700"
     ],
     "STATUS_WARNING_BACKGROUND": [
-      "#ca5bd4"
+      "#1a163a"
     ],
     "STATUS_WARNING_TEXT": [
-      "#FFFFFF"
+      "#000000"
     ],
     "TEXT_BRAND": [
-      "#974fff"
+      "#bc13fe"
     ],
     "TEXT_DANGER": [
-      "#FFFFFF"
+      "#ff2e63"
     ],
     "TEXT_LINK": [
-      "#FFFFFF"
+      "#00f2ff"
     ],
     "TEXT_LINK_LOW_SATURATION": [
-      "#FFFFFF"
+      "#00f2ff"
     ],
     "TEXT_LOW_CONTRAST": [
-      "#FFFFFF"
+      "#a0a0c0"
     ],
     "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-      "#FFFFFF"
+      "#a0a0c0"
     ],
     "TEXT_MUTED": [
-      "#9a9a9a"
+      "#72767d"
     ],
     "TEXT_MUTED_ON_DEFAULT": [
-      "#FFFFFF"
+      "#a0a0c0"
     ],
     "TEXT_NORMAL": [
-      "#FFFFFF"
+      "#e0e0ff"
     ],
     "TEXT_POSITIVE": [
-      "#FFFFFF"
+      "#00f2ff"
     ],
     "TEXT_PRIMARY": [
-      "#FFFFFF"
+      "#ffffff"
     ],
     "TEXT_SECONDARY": [
-      "#FFFFFF"
+      "#b9bbbe"
     ],
     "TEXT_WARNING": [
-      "#FFFFFF"
+      "#ffe700"
     ],
     "THEME_LOCKED_BLUR_FALLBACK": [
-      "#1a0d1b"
+      "#0d0b1e"
     ],
     "THREAD_CHANNEL_SPINE": [
-      "#FFFFFF"
+      "#bc13fe"
     ],
     "TOAST_BG": [
-      "#3d1e40"
+      "#1a163a"
     ],
     "TYPING_INDICATOR_BG": [
-      "#FFFFFF"
+      "#bc13fe"
     ],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-      "#1a0d1b"
+      "#0d0b1e"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
-      "#1a0d1b"
+      "#080712"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
-      "#1a0d1b"
+      "#0d0b1e"
     ],
     "WHITE": [
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#FFFFFF"
+      "#bc13fe"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "#1a0d1b"
+      "transparent"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#FFFFFF"
+      "#bc13fe"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#1a0d1b"
+      "#1a163a"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#231225"
+      "#0d0b1e"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#FFFFFF"
+      "transparent"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "#3a3a3a"
+      "#bc13fe"
     ],
     "INTERACTIVE_MUTED": [
       "#1a1a1a"
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#000000"
+      "#05050a"
     ],
     "MENTION_BADGE": [
-      "#974fff"
+      "#bc13fe"
     ],
     "REDESIGN_MENTION_BADGE": [
-      "#974fff"
+      "#bc13fe"
     ]
   },
   "rawColors": {
-    "BLACK_500": "#3d1e40",
-    "BRAND_260": "#FFFFFF",
-    "BRAND_360": "#FFFFFF",
-    "BRAND_560": "#2a142c",
-    "BRAND_500": "#1a1a1a",
-    "RED_430": "#974fff",
-    "PLUM_14": "#160a17",
-    "PRIMARY_800": "#160a17",
+    "BLACK_500": "#080712",
+    "BRAND_260": "#00f2ff",
+    "BRAND_360": "#bc13fe",
+    "BRAND_560": "#0d0b1e",
+    "BRAND_500": "#1a163a",
+    "RED_430": "#ff2e63",
+    "PLUM_14": "#080712",
+    "PRIMARY_800": "#05050a",
     "PLUM_1": "#FFFFFF",
-    "PLUM_22": "#1a0d1b",
-    "PRIMARY_660": "#1a0d1b",
-    "PRIMARY_700": "#160a17",
-    "PRIMARY_560": "#1a0d1b",
-    "PRIMARY_600": "#1a0d1b",
-    "PRIMARY_630": "#1a0d1b",
-    "PLUM_15": "#3d1e40",
-    "PLUM_17": "#1a0d1b",
-    "PLUM_18": "#1a0d1b",
-    "PLUM_19": "#1a0d1b",
-    "PLUM_20": "#1a0d1b",
-    "PLUM_23": "#1a0d1b",
-    "PLUM_24": "#1a0d1b"
+    "PLUM_22": "#0d0b1e",
+    "PRIMARY_660": "#0d0b1e",
+    "PRIMARY_700": "#080712",
+    "PRIMARY_560": "#1a163a",
+    "PRIMARY_600": "#0d0b1e",
+    "PRIMARY_630": "#0d0b1e",
+    "PLUM_15": "#1a163a",
+    "PLUM_17": "#0d0b1e",
+    "PLUM_18": "#0d0b1e",
+    "PLUM_19": "#0d0b1e",
+    "PLUM_20": "#0d0b1e",
+    "PLUM_23": "#0d0b1e",
+    "PLUM_24": "#0d0b1e"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/nka551774-hue/theme/refs/heads/main/nazuna.jpg",
-    "blur": 0.2,
-    "alpha": 0.5,
+    "blur": 0.1,
+    "alpha": 0.45,
     "size": "cover",
     "position": "center"
   },
