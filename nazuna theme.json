@@ -1,10 +1,10 @@
 {
-  "name": "Nanakusa Nazuna - Night Pink & Purple",
-  "description": "Call of the Night aesthetic with high contrast channels",
+  "name": "Call Of The Night - Nanakusa Nazuna",
+  "description": "Enjoy it hope you like this theme:)",
   "authors": [
     {
-      "name": "nka551774",
-      "id": "lalala0324"
+      "name": "lalala0324",
+      "id": "1031829334584991794"
     }
   ],
   "semanticColors": {
@@ -57,7 +57,7 @@
       "#b654bf"
     ],
     "STATUS_OFFLINE": [
-      "#3a3a3a"
+      "#FF69B4"
     ],
     "STATUS_ONLINE": [
       "#ff7edb"
@@ -216,6 +216,6 @@
     "iconpack": "solar"
   },
   "spec": 2,
-  "createdAt": "2026-05-10",
+  "createdAt": "2026-05-08",
   "source": "local"
 }
